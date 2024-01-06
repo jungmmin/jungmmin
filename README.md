@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?fontColor=ffff&type=waving&color=0892D0&text=%20%20반갑습니다,%20저는%20정민입니다.%20👋&&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=25&height=250)
+![header](https://capsule-render.vercel.app/api?fontColor=ffff&type=waving&color=0892D0&text=Hello,%20저는%20정민입니다.%20👋&&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=25&height=250)
 
 I'm currently studying to become a backend developer.
 
